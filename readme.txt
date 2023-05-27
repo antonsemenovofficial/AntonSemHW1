@@ -1,1 +1,3 @@
-Hello, my deat friends.
+Hello, my deat frie!32ds.
+
+print ('Hello world')
